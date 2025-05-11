@@ -61,11 +61,11 @@ File: audit_report.html with enriched details (CVE, severity, and mitigation).
 ##  Screenshots
 
 ### Terminal Output Example  
-![Terminal Output](screenshots/terminal_output.png)
+![Terminal Output](screenshots/terminal_output.jpeg)
          
 
 ### HTML Report Sample  
-![HTML Report](screenshots/html_report.png)
+![HTML Report](screenshots/html_report.jpeg)
 
 
 ### Project Files
