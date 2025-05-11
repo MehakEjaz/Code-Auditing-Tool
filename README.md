@@ -17,27 +17,21 @@ This project is a **Python-based static code auditing tool** that scans Python s
 The tool supports **parallel scanning**, **directory and file-based audits**, and generates both **terminal output** and a styled **HTML report**, making it ideal for secure development, auditing, and DevSecOps pipelines.
 
 
-
 ##  Instructions to Run the Project
-
 1. Clone the Repository:
-  
-   git clone https://github.com/your-username/code-auditing-tool.git
-   cd code-auditing-tool
+git clone https://github.com/your-username/code-auditing-tool.git
+cd code-auditing-tool
+
 2. Install Required Tools:
-
 Ensure Python 3 is installed. Then run:
-
-   pip install bandit flake8 semgrep prettytable
+pip install bandit flake8 semgrep prettytable
    
 3. Prepare the Directory:
-  
 Place your target Python files in a directory (e.g., code_audit_test/).
 Ensure the vuln_to_cve_mapping.json and vuln_mitigations.json files are present.
 
 4. Run the Tool:
-
-   python code_auditor.py
+python code_auditor.py
    
 5.Input Prompt:
 
