@@ -73,12 +73,12 @@ File: audit_report.html with enriched details (CVE, severity, and mitigation).
 
 code-auditing-tool/
 │
-├── code_auditor.py              # Main script
-├── vuln_to_cve_mapping.json     # CVE keyword mapping
-├── vuln_mitigations.json        # Mitigation suggestions
-├── code_audit_test/             # Zip folder containing Python files to scan
-├── audit_report.html            # Generated HTML output
-└── README.md                    # This file
+├── code_auditing_tool_with_reporting.py              # Main script
+├── vuln_to_cve_mapping.json                          # CVE keyword mapping
+├── vuln_mitigations.json                             # Mitigation suggestions
+├── code_audit_test/                                  # Zip folder containing Python files to scan
+├── audit_report.html                                 # Generated HTML output
+└── README.md                                         # This file
 
 Ethical Disclaimer:
 This tool is intended only for authorized auditing. Scanning proprietary or third-party code without consent is unethical and possibly illegal. Only use this tool on code you are legally permitted to audit.
