@@ -1,14 +1,5 @@
 #  Python Code Auditing Tool
 
-##  Group Number: 7
-
-##  Group Members:
-- Syeda Mehak Ejaz (CR-22001)  
-- Hafsa Usman (CR-22003)  
-- Syeda Abiha Shams (CR-22018)  
-- Ayesha Majid (CR-22026)  
-
-
 
 ##  Project Description
 
